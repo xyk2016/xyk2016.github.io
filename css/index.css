@@ -35,7 +35,7 @@ mark {background: #ff0; }
 
 *html{background:url(484e23fe4aa040689dfbc8fc83eae328.gif) #fff;background-attachment:fixed;}
 /*头部开始*/
-.topall{position: absolute;top: 0;left:0;_position: absolute;_top: expression(eval(document.documentElement.scrollTop));z-index: 9999;width: 100%;height: 86px;background: #222222;}
+.topall{position: absolute;top: 0;left:0;_position: absolute;_top: expression(eval(document.documentElement.scrollTop));z-index: 9999;width: 960px;height: 86px;background: #222222;}
 	.topnav{width: 960px;height:26px;margin: 0 auto;text-align: right;}
 	.topnav a{color: #fff;padding: 0 10px;}
 	.topnav a:hover{color: #f00;}
